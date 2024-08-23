@@ -40,6 +40,49 @@ body {
   margin-bottom: 40px;
   justify: left;
 }
+
+.main-description {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -0.5px;
+  margin-bottom: 40px;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+.navlink:link,
+.navlink:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  color: #333;
+  font-weight: 600;
+  font-size: 18px;
+  transition: all 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.navlink:hover,
+.navlink:active {
+  color: #8fb453;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  justify-content: space-between;
+  height: 9.6rem;
+  padding: 0 4.8rem;
+}
+
 .button {
   display: inline-block;
   text-decoration: none;
@@ -53,7 +96,7 @@ body {
   font-family: inherit;
 
   /* Slow Transition - hover
- */
+  /* transition: 0.9s; */
   transition: all 0.9s;
 }
 
@@ -70,4 +113,14 @@ body {
 
 .btnmargin-right {
   margin-right: 1.6rem !important;
+}
+
+.grid {
+  display: grid;
+  column-gap: 30px;
+  row-gap: 9.6rem;
+  padding: ;
+}
+.cssgrid2cols {
+  grid-template-columns: repeat(2, 1fr);
 }
