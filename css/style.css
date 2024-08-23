@@ -40,3 +40,34 @@ body {
   margin-bottom: 40px;
   justify: left;
 }
+.button {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+
+  /* Slow Transition - hover
+ */
+  transition: all 0.9s;
+}
+
+.button:link,
+.button:visited {
+  background-color: #a4c570;
+  color: #fff;
+}
+
+.button:hover,
+.button:active {
+  background-color: #cce4a3;
+}
+
+.btnmargin-right {
+  margin-right: 1.6rem !important;
+}
