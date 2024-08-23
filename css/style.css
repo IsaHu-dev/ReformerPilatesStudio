@@ -1,0 +1,42 @@
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
+
+#main {
+  background-color: #f2e8f2;
+  padding: 4.8rem 0 9.6rem 0;
+}
+
+.landingpg {
+  max-width: 130rem;
+  margin: 0 auto;
+  padding: 0 3.2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 9.6rem;
+  align-items: center;
+}
+
+.landingpg-img {
+  width: 100%;
+}
+
+.header-main {
+  font-family: "Moderustic", sans-serif;
+  font-weight: 520;
+  font-size: 32px;
+  color: #333;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  margin-bottom: 40px;
+  justify: left;
+}
