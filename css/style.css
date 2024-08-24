@@ -157,3 +157,8 @@ width:100%;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+.ab-description {
+  font-size: 18px;
+  line-height: 1.8;
+  font-family: "Montserrat", sans-serif;
+}
