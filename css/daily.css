@@ -13,4 +13,13 @@
     margin-top: 10px;
     text-transform: uppercase;
   }
-  
+  .daily-subheader {
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    font-weight: 550;
+    line-height: 1.2;
+    margin-bottom: 30px;
+    margin-top:12rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
