@@ -1,4 +1,3 @@
-/* Reset and general styles */
 * {
   padding: 0;
   margin: 0;
@@ -15,15 +14,17 @@ body {
   background-color: #f2e8f2;
   padding: 4.8rem 0 7rem;
   border-radius: 10px;
-  margin-bottom: 8rem; 
+  margin-top: 30px;
+  margin-bottom:3rem;
 }
+
 .landingpg {
   max-width: 130rem;
   margin: 0 auto;
   padding: 0 3.2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4rem; /* Adjusted gap */
+  gap: 4rem;
   align-items: center;
 }
 
@@ -55,18 +56,20 @@ body {
 .navbar {
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem; /* Adjusted gap to fit small screens */
+  margin-right: 2rem;
 }
 
 .navlink {
   text-decoration: none;
   color: #333;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 16px; /* Adjusted base font size */
   transition: color 0.3s;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 1.2px;
 }
 
 .navlink:hover {
@@ -78,12 +81,13 @@ body {
   align-items: center;
   background-color: #fff;
   justify-content: space-between;
-  height: 9.6rem;
-  padding: 0 4.8rem;
+  height: 8rem; /
+  padding: 0 2.4rem; 
 }
 
 .logo {
-  height: 129px;
+  width: 100%;
+  object-fit: contain;
 }
 
 /* Button styling */
@@ -109,7 +113,6 @@ body {
   margin-right: 1.6rem;
 }
 
-
 .container {
   max-width: 120rem;
   padding: 0 2rem;
@@ -118,7 +121,7 @@ body {
 
 .grid {
   display: grid;
-  gap: 4rem; 
+  gap: 4rem;
 }
 
 .cssgrid2cols {
@@ -138,7 +141,6 @@ body {
   width: 100%;
   border-radius: 8px;
 }
-
 
 .subheader {
   font-size: 25px;
@@ -170,8 +172,6 @@ body {
 .grid-container,
 .grid-container-reverse {
   display: grid;
- 
-  
 }
 
 .grid-container {
@@ -198,25 +198,48 @@ body {
   border-radius: 10px;
 }
 
-
-
 @media (max-width: 768px) { 
   .daily-img {
-    height: 300px; 
+      height: 300px; 
+}
+
+
+/* Navbar font size adjustments for different screen widths */
+@media (max-width: 480px) {
+  .navlink {
+      font-size: 12px; /* Smaller font size for screens 320px and up */
+  }
+  .navbar {
+      margin-top: 2rem;
+      gap: 0.5rem; /* Further reduce gap between nav items */
+  }
+  .head {
+      padding: 0 1.6rem; 
   }
 }
 
-@media (max-width: 480px) { 
-  .daily-img {
-    height: 250px; /* Adjust height for iPhone and similar devices */
+@media (min-width: 481px) and (max-width: 768px) {
+  .navlink {
+      font-size: 14px; 
   }
-
-  .header-main {
-    font-size: 24px; /* Adjust font size for smaller screens */
-  }
-
-  .main-description,
-  .daily-description {
-    font-size: 16px; 
+  .head {
+      padding: 0 2rem; 
   }
 }
+
+@media (min-width: 769px) and (max-width: 1279px) {
+  .navlink {
+      font-size: 16px; 
+  }
+  .head {
+      padding: 0 3.2rem; 
+}
+@media (min-width: 320px) and (max-width: 677px) {
+  .logo {
+      width: 120%; 
+      margin-left: -2rem;{
+   
+  }
+  
+   }
+  
