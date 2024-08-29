@@ -1,6 +1,13 @@
 # REFORMER PILATES STUDIO
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+PITCH:
+Our website is designed to be your go-to resource, providing you with in-depth information, expert guidance, and inspiration to help you integrate Reformer Pilates into your fitness routine. Here, you'll find everything from beginner tips to advanced techniques, classes and recommendations. Whether you're looking to start your Reformer Pilates journey or take your practice to the next level, our site has everything you need to succeed.
+
+Join the movement and discover why Reformer Pilates is the must-try workout that everyone is talking about. Explore our website and take the first step towards transforming your fitness and well-being today!
+
+Reformer Pilates is tailored to meet the unique needs of every individual, providing a well-rounded and impactful workout that can be customized to support and challenge people of all ages.
+
+![Index page](https://github.com/ReformerPilatesStudio/media/indexpage.png)
 
 
 
