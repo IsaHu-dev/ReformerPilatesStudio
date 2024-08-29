@@ -200,7 +200,7 @@ body {
   grid-template-columns: 1.5fr 1fr;
 }
 
-/* GAP ADJUSTMENTS */
+/* Gap adjustments */
 .with-gap {
   margin-bottom: 3rem;
 }
@@ -210,7 +210,7 @@ body {
   line-height: 1.8;
   letter-spacing: -0.5px;
   color: #444; /* Improved contrast */
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem; /* Line break and space between paragraphs */
 }
 
 .daily-img,
@@ -224,7 +224,7 @@ body {
   margin-bottom: 4rem;
 }
 
-/* GALLERY STYLING */
+/* Gallery Styling */
 figure {
   padding: 20px;
   max-width: 1200px;
@@ -272,7 +272,7 @@ figure {
   color: #2d2d2d; /* Improved contrast */
 }
 
-/* CONTACT FORM STYLING */
+/* Contact Form Styling */
 .contact-form-container {
   display: flex;
   justify-content: center;
@@ -372,11 +372,11 @@ input[type="submit"]:focus {
 
   #about-section {
     text-align: left;
-    margin-bottom: 1.5rem; 
+    margin-bottom: 1.5rem; /* Reduce bottom margin */
 }
 
 #daily {
-    margin-top: 1.5rem;
+    margin-top: 1.5rem; /* Adjust this value as needed */
 }
 .gallery {
   grid-template-columns: 1fr;
