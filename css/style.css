@@ -131,7 +131,7 @@ body {
   border: none;
   cursor: pointer;
   transition: background-color 0.3s;
-  background-color: #333; /* Darker green for better contrast */
+  background-color: #333;
   color: #fff;
 }
 
@@ -273,8 +273,10 @@ figure {
   display: flex;
   justify-content: center;
   margin-top: 2rem;
-}
+  background-color: #f5f1f5; 
+  padding: 6rem;
 
+}
 .contact-form-container .container {
   width: 40%;
   max-width: 800px;
@@ -282,6 +284,9 @@ figure {
   background-color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
 }
 
 label {
@@ -293,7 +298,7 @@ label {
 
 input[type="text"],
 input[type="email"] {
-  width: calc(100% - 22px);
+  width: calc(140% - 22px);
   padding: 10px;
   margin-bottom: 15px;
   border: 1px solid #ddd;
@@ -302,9 +307,8 @@ input[type="email"] {
 }
 
 input[type="submit"] {
-  width: 200px;
-  height:34px;
-  padding: 10px;
+  width: 90%;
+  padding: 10px 0; /* Adjust padding for vertical centering */
   background-color: #6a6868; 
   color: white;
   border: none;
@@ -313,8 +317,15 @@ input[type="submit"] {
   font-size: 16px;
   transition: background-color 0.6s;
   margin-bottom: 3rem;
-align-self: center; 
+  align-self: center; 
+  text-align: center; 
+  line-height: normal; 
+  text-transform: uppercase; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
 }
+  
 
 input[type="submit"]:hover,
 input[type="submit"]:focus {
