@@ -1,4 +1,3 @@
-/* Reset CSS */
 * {
   padding: 0;
   margin: 0;
@@ -58,6 +57,7 @@ body {
   height: 129px;
 }
 
+/* General Page Layout */
 #main,
 #about-section {
   background-color: #f2e8f2;
@@ -118,6 +118,15 @@ body {
   letter-spacing: 1px;
   color: #2d2d2d; /* Improved contrast */
 }
+.cont_subheader {
+  font-size: 25px;
+  font-weight: 550;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  color: #2d2d2d; /* Improved contrast */
+  margin-right: -2rem;
+}
 
 /* Button Styling */
 .button {
@@ -169,7 +178,7 @@ body {
 }
 
 /* Daily Section */
-#daily-exercises {
+#daily {
   padding: 6rem 2rem;
 }
 
@@ -200,16 +209,6 @@ body {
   grid-template-columns: 1.5fr 1fr;
 }
 
-/* Section Gap */
-.section-gap {
-  margin-top: 3rem;
-}
-
-/* Reduced Section Gap */
-.section-gap-02 {
-  margin-top: -3rem;
-}
-
 /* Gap adjustments */
 .with-gap {
   margin-bottom: 3rem;
@@ -228,6 +227,10 @@ body {
   width: 90%;
   height: auto;
   border-radius: 10px;
+}
+
+#plank-section {
+  margin-bottom: 4rem;
 }
 
 .spacing {
@@ -302,6 +305,9 @@ figure {
   flex-direction: column;
   align-items: center; /* Ensure all child elements, including the submit button, are centered */
 }
+.sleft{
+  margin-right:3rem;
+}
 
 label {
   display: block;
@@ -312,14 +318,13 @@ label {
 
 input[type="text"],
 input[type="email"] {
-  width: calc(100% - 22px);
+  width: calc(100% + 40px - 22px); /* Adding 2rem to the width */
   padding: 10px;
   margin-bottom: 15px;
   border: 1px solid #ddd;
   border-radius: 4px;
   box-sizing: border-box;
 }
-
 input[type="submit"] {
   width: 90%;
   padding: 10px 0; /* Adjust padding for vertical centering */
@@ -353,75 +358,75 @@ input[type="submit"]:focus {
   .cssgrid2cols,
   .grid-container,
   .grid-container-reverse {
-      grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 
   #main,
   #about-section {
-      max-width: 90%;
-      padding-left: 5%;
-      padding-right: 5%;
+    max-width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 
   .head {
-      margin-bottom: 3rem;
+    margin-bottom: 3rem;
   }
 
   .landingpg-img,
   .daily-img {
-      width: 100%;
-      height: auto;
+    width: 100%;
+    height: auto;
   }
 
   .about-img img {
-      margin-left: -0.7rem;
-      width: 110%;
-      align-items: center;
+    margin-left: -0.7rem;
+    width: 110%;
+    align-items: center;
   }
 
   #about-section {
-      text-align: left;
-      margin-bottom: 1.5rem; /* Reduce bottom margin */
+    text-align: left;
+    margin-bottom: 1.5rem; /* Reduce bottom margin */
   }
 
-  #daily-exercises {
-      margin-top: 1.5rem; /* Adjust this value as needed */
+  #daily {
+    margin-top: 1.5rem; /* Adjust this value as needed */
   }
 
   .gallery {
-      grid-template-columns: 1fr;
-      gap: 10px;
+    grid-template-columns: 1fr;
+    gap: 10px;
   }
 
   .gallery-item {
-      aspect-ratio: 4 / 3;
+    aspect-ratio: 4 / 3;
   }
 
   .gallery-item img {
-      width: 100%;
-      height: auto;
+    width: 100%;
+    height: auto;
   }
 
   /* Adjusting contact form container for smaller screens */
   .contact-form-container .container {
-      width: 100%;
-      max-width: 1280px;
-      padding: 2rem;
+    width: 100%;
+    max-width: 1280px;
+    padding: 2rem;
   }
 }
 
 /* Navbar font size adjustments for smaller screens */
 @media (max-width: 480px) {
   .navlink {
-      font-size: 12px;
+    font-size: 12px;
   }
 
   .navbar {
-      margin-top: 2rem;
-      gap: 0.5rem;
+    margin-top: 2rem;
+    gap: 0.5rem;
   }
 
   .head {
-      padding: 0 1.6rem;
+    padding: 0 1.6rem;
   }
 }
