@@ -12,18 +12,15 @@ Reformer Pilates is tailored to meet the unique needs of every individual, provi
 
 ## Features 
 
-The Reformer Pilates website is designed with a focus on aesthetics and functionality, offering a smooth user experience while aiming to attract new members to the studio.The site features a user-friendly navigation bar that is easily accessible and fully responsive across all devices, guiding visitors through key sections. These include a visually clear and optimized landing page, an informative "About" page outlining the studio's mission, and a "Gallery" page showcasing various reformer exercise movements and the studio's facilities. The "Daily Exercises" section offers users a range of routines to complement their Pilates practice. Additionally, the "Sign Up" page includes a straightforward contact form, making communication and registration for new members easy. The website is crafted to be both inviting and highly functional, supporting the growth of the Reformer Pilates brand.
+The Reformer Pilates website is designed with a focus on aesthetics and functionality, offering a smooth user experience while aiming to attract new members to the studio.The site features a user-friendly navigation bar that is easily accessible and fully responsive across all devices, guiding visitors through key sections. These include a visually clear and accessible landing page, an informative "About" page outlining the studio's mission, and a "Gallery" page showcasing various reformer exercise movements and the studio's facilities. The "Daily Exercises" section offers users a range of routines to complement their Pilates practice. Additionally, the "Sign Up" page includes a straightforward contact form, making communication and registration for new members easy. The website is crafted to be both inviting and highly functional, supporting the growth of the Reformer Pilates brand.
 
 - __Navigation Bar__
 
 The navigation bar, features links to the “Home page”,"About," "Daily Exercise," "Gallery," and "Contact" pages. The text based horizontal menu on each page ensures easy and seamless navigation, allowing users to move from one page to another across all devices. This aims to create a good user experience.
 
-
-
 - __The landing page image__
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-
+ - The landing page includes text on the left with a striking header and button for new clients to sign up to the studio. The text is accompanied by a visually engaging photograph. In respect to the text, I’ve used headings and subheadings using (H1) to create a clear hierarchy of information. 
 
 - __Club Ethos Section__
 
