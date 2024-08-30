@@ -25,7 +25,7 @@ The Reformer Pilates website is designed with a focus on aesthetics and function
      create a clear hierarchy of information. 
    - I have included a button that directs users to the contact page, in case they are already familiar with the Reformer Pilates Studio through recommendations and are ready to sign up immediately.
 
-- __About Section __
+- __About Page__
 
    - The "About" page was created to provide clients with a clear introduction to the Reformer Pilates Studio, emphasizing what makes it unique and appealing. The goal was to provide essential information that the target users (fitness fans) need to know, such 
      as the studio's location, the blend of modern fitness and holistic health offered, and the suitability of the classes for all fitness levels. The About page is designed to build trust and encourage users to visit the studio as the perfect place to meet 
