@@ -16,7 +16,8 @@ The Reformer Pilates website is designed with a focus on aesthetics and function
 
 - __Navigation Bar__
 
-The fully responsive navigation bar, featured consistently across the "About," "Daily Exercise," "Gallery," and "Contact" pages, includes links to the Home page, Gallery, and Sign Up page. The horizontal layout of the menu on each page ensures easy and seamless navigation, allowing users to move from one page to another across all devices.
+The navigation bar, features links to the “Home page”,"About," "Daily Exercise," "Gallery," and "Contact" pages. The text based horizontal menu on each page ensures easy and seamless navigation, allowing users to move from one page to another across all devices. This aims to create a good user experience.
+
 
 
 - __The landing page image__
