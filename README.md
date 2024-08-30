@@ -25,9 +25,11 @@ The Reformer Pilates website is designed with a focus on aesthetics and function
      create a clear hierarchy of information. 
    - I have included a button that directs users to the contact page, in case they are already familiar with the Reformer Pilates Studio through recommendations and are ready to sign up immediately.
 
-- __Club Ethos Section__
+- __About Section __
 
-  "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+   - The "About" page was created to provide clients with a clear introduction to the Reformer Pilates Studio, emphasizing what makes it unique and appealing. The goal was to provide essential information that the target users (fitness fans) need to know, such 
+     as the studio's location, the blend of modern fitness and holistic health offered, and the suitability of the classes for all fitness levels. The About page is designed to build trust and encourage users to visit the studio as the perfect place to meet 
+     their fitness and wellness goals. 
 
 
 
