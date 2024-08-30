@@ -12,8 +12,7 @@ Reformer Pilates is tailored to meet the unique needs of every individual, provi
 
 ## Features 
 
-
-The Reformer Pilates website is designed with a focus on aesthetics and functionality, offering a smooth user experience while aiming to attract new members to the studio. The site features a user-friendly navigation bar that is easily accessible and fully responsive across all devices, guiding visitors through key sections. These include a visually engaging landing page, an informative "About" page outlining the studio's mission, and a "Gallery" page showcasing various reformer exercise movements and the studio's facilities. The "Daily Exercises" section offers users a range of routines to complement their Pilates practice. Additionally, the "Sign Up" page includes a straightforward contact form, making communication and registration for new members easy. The website is crafted to be both inviting and functional, supporting the growth of the Reformer Pilates brand.
+The Reformer Pilates website is designed with a focus on aesthetics and functionality, offering a smooth user experience while aiming to attract new members to the studio.The site features a user-friendly navigation bar that is easily accessible and fully responsive across all devices, guiding visitors through key sections. These include a visually clear and optimized landing page, an informative "About" page outlining the studio's mission, and a "Gallery" page showcasing various reformer exercise movements and the studio's facilities. The "Daily Exercises" section offers users a range of routines to complement their Pilates practice. Additionally, the "Sign Up" page includes a straightforward contact form, making communication and registration for new members easy. The website is crafted to be both inviting and highly functional, supporting the growth of the Reformer Pilates brand.
 
 - __Navigation Bar__
 
