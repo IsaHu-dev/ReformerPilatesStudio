@@ -37,12 +37,6 @@ The Reformer Pilates website is designed with a focus on aesthetics and function
     Circles, The Hundred, Elephant, and Plank Variations into their daily routines. Each exercise is carefully explained to improve strength, flexibility, and balance, making it easy for users to follow along and enhance their Pilates practice. The Daily 
     Exercise page serves as a valuable resource or fitness education - for anyone looking to maintain consistency and progress in their fitness journey.
 
-- __The Footer__ 
-
-   "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas 
-    sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt 
-    ut labore et dolore magnam aliquam quaerat voluptatem.
-
 - __Gallery__
 
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
