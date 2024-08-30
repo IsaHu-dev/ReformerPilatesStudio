@@ -452,7 +452,7 @@ input[type="submit"]:focus {
     padding: 8px 3; /* Adjust padding */
   }
 }
-/*font size adjustments for smaller screens */
+font size adjustments for smaller screens */
 @media (max-width: 480px) {
   .navlink {
       font-size: 12px;
