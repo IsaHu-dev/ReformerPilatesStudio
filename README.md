@@ -21,6 +21,7 @@ The navigation bar, features links to the “Home page”,"About," "Daily Exerci
 - __The landing page image__
 
  - The landing page includes text on the left with a striking header and button for new clients to sign up to the studio. The text is accompanied by a visually engaging photograph. In respect to the text, I’ve used headings and subheadings using (H1) to create a clear hierarchy of information. 
+ - I have included a button that directs users to the contact page, in case they are already familiar with the Reformer Pilates Studio through recommendations and are ready to sign up immediately.
 
 - __Club Ethos Section__
 
