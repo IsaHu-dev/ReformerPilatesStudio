@@ -21,7 +21,7 @@ The "Daily Exercises" section offers users a range of routines to complement the
 
 
 
-         ![NAVIGATION](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/navbar.png)
+   ![NAVIGATION](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/navbar.png)
 
 
 - __THE LANDING PAGE__
