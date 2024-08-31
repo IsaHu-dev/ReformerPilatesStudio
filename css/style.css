@@ -207,12 +207,6 @@ body {
 .section-gap-02 {
   margin-top: -3rem;
 }
-
-/* Gap adjustments */
-.with-gap {
-  margin-bottom: 3rem;
-}
-
 .daily-description {
   font-size: 18px;
   line-height: 1.8;
@@ -226,10 +220,6 @@ body {
   width: 90%;
   height: auto;
   border-radius: 10px;
-}
-
-.spacing {
-  margin-bottom: 4rem;
 }
 
 /* Gallery Styling */
