@@ -20,7 +20,8 @@ The "Daily Exercises" section offers users a range of routines to complement the
   - The navigation bar features links to the "Home page", "About," "Daily Exercise," "Gallery," and "Contact" pages. The text-based horizontal menu on each page ensures easy and intuitive navigation, allowing users to move seamlessly from one page to another across all devices. This aims to create a smooth user experience.
 
 
- ![NAVIGATION](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/navbar.png)
+
+         ![NAVIGATION](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/navbar.png)
 
 
 - __THE LANDING PAGE__
@@ -29,7 +30,8 @@ The "Daily Exercises" section offers users a range of routines to complement the
    - A responsive button is included on the landing page to direct new users to the signup page if they are familiar with the Reformer Pilates Studio through recommendations and are ready to sign up immediately.
    - The primary goal of the landing page is to directly appeal to fitness enthusiasts, highlighting how our program perfectly complements their active lifestyle. Our target audience also includes people of all ages, along with yoga and barre enthusiasts, fitness fanatics, and dancers. 
    
-   ![LANDING PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/indexpage.png)
+
+         ![LANDING PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/indexpage.png)
 
 - __ABOUT PAGE__
 
@@ -39,7 +41,8 @@ The "Daily Exercises" section offers users a range of routines to complement the
    - The "About" page is designed to align  with the goals and ideals presented on the landing page by reinforcing our commitment to fitness enthusiasts who are already engaged in activities like yoga, barre, gym workouts, or dancing.   It expands on how our program   complements their current routines, offering an understanding of our objectives and how we cater to the new users' lifestyles. By highlighting our experience, values, and dedication to enhancing their fitness journey, the "About" page builds trust and solidifies the connection made on the landing page. It reassures visitors/new users that we understand their needs and are committed to providing a program that integrates with their existing fitness plans, meeting their expectations and gaining trust in our product. The About page shows the location of the studio and will attract our target audience that include people of all ages, along with yoga and barre enthusiasts, fitness  fanatics, and dancers that are local to the area. 
 
 
-    ![ABOUT PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/aboutpage.png)
+
+          ![ABOUT PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/aboutpage.png)
 
  
 - __DAILY EXERCISE PAGE__
@@ -49,19 +52,24 @@ The "Daily Exercises" section offers users a range of routines to complement the
     Exercise page serves as a valuable resource or fitness education - for anyone looking to progress in their fitness journey.
 
 
-  ![DAILY EXERCISE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/dailyexercise.png)
+
+           ![DAILY EXERCISE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/dailyexercise.png)
 
 - __GALLERY__
 
   - The Gallery page gives the target users a clear look at our Reformer Pilates studio and the equipment we use. The images have a smooth transition applied which enlargens as you hover over them, showing you exactly what to expect when you visit. This 
     section helps you see our studio and the Reformer machines up close, so you know what you'll be using during your Pilates sessions. This section of the site is visually engaging and will attract new users to the site. 
 
- ![GALLERY](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/gallery.png)
+
+
+          ![GALLERY](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/gallery.png)
 
 - __THE SIGN UP PAGE__
 
   - This page allows target users to sign up for the Reformer Pilates Studio Website and begin their fitness journey with the community. Users can choose between group sessions or one-on-one sessions with an instructor. During the registration process, new users will be asked to provide their full name, address, and email address.
 
+
+          ![SIGNUP PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/signup.png)
 
 ### Validator Testing 
 
@@ -71,7 +79,8 @@ The "Daily Exercises" section offers users a range of routines to complement the
 
 ### LIGHTHOUSE SCORE  
 
-![SCORE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/lighthouse_img.png)
+
+          ![SCORE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/lighthouse_img.png)
 
 
 ### Unfixed Bugs
