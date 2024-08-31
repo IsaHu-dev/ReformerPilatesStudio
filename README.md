@@ -31,7 +31,7 @@ The "Daily Exercises" section offers users a range of routines to complement the
    - The primary goal of the landing page is to directly appeal to fitness enthusiasts, highlighting how our program perfectly complements their active lifestyle. Our target audience also includes people of all ages, along with yoga and barre enthusiasts, fitness fanatics, and dancers. 
    
 
-         ![LANDING PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/indexpage.png)
+     ![LANDING PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/indexpage.png)
 
 - __ABOUT PAGE__
 
@@ -42,7 +42,7 @@ The "Daily Exercises" section offers users a range of routines to complement the
 
 
 
-          ![ABOUT PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/aboutpage.png)
+     ![ABOUT PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/aboutpage.png)
 
  
 - __DAILY EXERCISE PAGE__
@@ -53,7 +53,7 @@ The "Daily Exercises" section offers users a range of routines to complement the
 
 
 
-           ![DAILY EXERCISE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/dailyexercise.png)
+    ![DAILY EXERCISE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/dailyexercise.png)
 
 - __GALLERY__
 
@@ -62,14 +62,14 @@ The "Daily Exercises" section offers users a range of routines to complement the
 
 
 
-          ![GALLERY](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/gallery.png)
+    ![GALLERY](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/gallery.png)
 
 - __THE SIGN UP PAGE__
 
   - This page allows target users to sign up for the Reformer Pilates Studio Website and begin their fitness journey with the community. Users can choose between group sessions or one-on-one sessions with an instructor. During the registration process, new users will be asked to provide their full name, address, and email address.
 
 
-          ![SIGNUP PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/signup.png)
+    ![SIGNUP PAGE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/signup.png)
 
 ### Validator Testing 
 
@@ -80,7 +80,7 @@ The "Daily Exercises" section offers users a range of routines to complement the
 ### LIGHTHOUSE SCORE  
 
 
-          ![SCORE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/lighthouse_img.png)
+  ![SCORE](https://github.com/IsaHu-dev/ReformerPilatesStudio/blob/main/media/lighthouse_img.png)
 
 
 ### Unfixed Bugs
